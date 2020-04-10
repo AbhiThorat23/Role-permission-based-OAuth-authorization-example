@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: profile
+
+server:
+  port: 8181
+  
+security:
+  oauth2:
+    resource:
+      token-info-uri: http://localhost:8185/oauth/check_token
+    client:
+      client-id: mobile
+      client-secret: pin 
+  

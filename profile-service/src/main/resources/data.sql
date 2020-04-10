@@ -1,0 +1,2 @@
+INSERT INTO CUSTOMER VALUES (1, '1234', 'Abhijit', 'Thorat', '411019');
+INSERT INTO CUSTOMER VALUES (2, '5678', 'Kiran', 'Thorat', '411018');
